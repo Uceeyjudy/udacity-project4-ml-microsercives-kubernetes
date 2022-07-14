@@ -9,11 +9,12 @@ In this project, you will apply the skills you have acquired in this course to o
 You are given a pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on the data source site. This project tests your ability to operationalize a Python flask app—in a provided file, app.py—that serves out predictions (inference) about housing prices through API calls. This project could be extended to any pre-trained machine learning model, such as those for image recognition and data labeling.
 Project Tasks
 
-This ML app predicts housing prices based on a number of factors such as average rooms in a home, data about highway access, teacher-to-pupil ratios, and so on. The dataset can be found on, the data source site.
+This Machine Learning app predicts housing prices based on a number of factors such as average rooms in a home, data about highway access, teacher-to-pupil ratios, and so on. The dataset can be found on, the data source site.
 INSTRUCTIONS TO RUN THE APP
+
 Environment Setup.
 
-    Run make setup to setup pyhton virtual environment.
+    Run make setup to setup python virtual environment.
     Run make install to install dependencies.
 
 Step 1: Install dependencies.
