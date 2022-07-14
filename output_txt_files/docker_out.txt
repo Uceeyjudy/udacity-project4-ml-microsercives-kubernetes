@@ -1,4 +1,3 @@
-=======
 [2022-07-14 00:54:59,871] INFO in app: JSON payload: 
 {'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
 [2022-07-14 00:54:59,881] INFO in app: Inference payload DataFrame: 
@@ -10,4 +9,3 @@
 [2022-07-14 00:54:59,892] INFO in app: output prediction: 
 [20.35373177134412]
 172.17.0.1 - - [14/Jul/2022 00:54:59] "POST /predict HTTP/1.1" 200 -
->>>>>>> 624fd9e59dc8948dc525d1a1805d4743f660b212
