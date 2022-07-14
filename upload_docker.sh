@@ -6,13 +6,13 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=judithezenwosu/ml-projrct
+dockerpath=judithezenwosu/ml-proj
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
 docker login -u judithezenwosu
-docker image tag ml-projrct $dockerpath
+docker image tag ml-proj $dockerpath
 
 
 # Step 3:
