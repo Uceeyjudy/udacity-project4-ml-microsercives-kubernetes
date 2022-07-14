@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Uceeyjudy/udacity-project4-ml-microsercives-kubernetes/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Uceeyjudy/udacity-project4-ml-microsercives-kubernetes/tree/main)
+
 # udacity-project4-ml-microsercives-kubernetes
 This is a repository for Cloud DevOps Engineer Nanodegree project 4 which involves Operationalizing a Machine Learning Microservice API
 Project Overview
